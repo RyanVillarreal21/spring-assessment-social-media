@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cooksys.twitter_api.TwitterApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.965 s - in com.cooksys.twitter_api.TwitterApiApplicationTests
